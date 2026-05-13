@@ -1,5 +1,4 @@
-# yuli0573# 
-Quiz 8: Imaging Technique Inspiration and Coding Technique Exploration
+# Quiz 8: Imaging Technique Inspiration and Coding Technique Exploration
 
 ## Part 1: Imaging Technique Inspiration
 
@@ -11,10 +10,10 @@ https://www.teamlab.art/w/waterparticles-transcending/
 
 ### Reference Images
 
-![teamLab water particles image 1](./images/teamlab-water-particles-1.jpg)  
+![teamLab water particles image 1](./teamlab-water-particles-1.jpg)  
 *Image source: teamLab, Universe of Water Particles, Transcending Boundaries*
 
-![teamLab water particles image 2](./images/teamlab-water-particles-2.jpg)  
+![teamLab water particles image 2](./teamlab-water-particles-2.jpg)  
 *Image source: teamLab, Universe of Water Particles, Transcending Boundaries*
 
 ### Discussion  
@@ -35,7 +34,7 @@ https://github.com/Abar23/Perlin-Noise-Flow-Field
 
 ### Coding Technique Screenshot
 
-![p5.js Perlin Noise Flow Field screenshot](./images/perlin-noise-flow-field.jpg)  
+![p5.js Perlin Noise Flow Field screenshot](./perlin-noise-flow-field.jpg)  
 *Image source: The Coding Train / p5.js Perlin Noise Flow Field example*
 
 ### Discussion  
